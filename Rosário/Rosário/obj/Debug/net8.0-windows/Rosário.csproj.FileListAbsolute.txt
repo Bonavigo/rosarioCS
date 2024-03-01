@@ -1,0 +1,16 @@
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\bin\Debug\net8.0-windows\Rosário.exe
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\bin\Debug\net8.0-windows\Rosário.deps.json
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\bin\Debug\net8.0-windows\Rosário.runtimeconfig.json
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\bin\Debug\net8.0-windows\Rosário.dll
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\bin\Debug\net8.0-windows\Rosário.pdb
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\obj\Debug\net8.0-windows\Rosário.Form1.resources
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\obj\Debug\net8.0-windows\Rosário.csproj.GenerateResource.cache
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\obj\Debug\net8.0-windows\Rosário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\obj\Debug\net8.0-windows\Rosário.AssemblyInfoInputs.cache
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\obj\Debug\net8.0-windows\Rosário.AssemblyInfo.cs
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\obj\Debug\net8.0-windows\Rosário.csproj.CoreCompileInputs.cache
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\obj\Debug\net8.0-windows\Rosário.dll
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\obj\Debug\net8.0-windows\refint\Rosário.dll
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\obj\Debug\net8.0-windows\Rosário.pdb
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\obj\Debug\net8.0-windows\Rosário.genruntimeconfig.cache
+C:\Users\bbona\source\repos\Bonavigo\rosarioCS\Rosário\Rosário\obj\Debug\net8.0-windows\ref\Rosário.dll
